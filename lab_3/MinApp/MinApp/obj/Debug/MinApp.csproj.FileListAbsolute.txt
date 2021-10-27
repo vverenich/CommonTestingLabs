@@ -1,0 +1,7 @@
+E:\software_testing\MinApp\MinApp\bin\Debug\MinApp.exe.config
+E:\software_testing\MinApp\MinApp\bin\Debug\MinApp.exe
+E:\software_testing\MinApp\MinApp\bin\Debug\MinApp.pdb
+E:\software_testing\MinApp\MinApp\obj\Debug\MinApp.csproj.AssemblyReference.cache
+E:\software_testing\MinApp\MinApp\obj\Debug\MinApp.csproj.CoreCompileInputs.cache
+E:\software_testing\MinApp\MinApp\obj\Debug\MinApp.exe
+E:\software_testing\MinApp\MinApp\obj\Debug\MinApp.pdb

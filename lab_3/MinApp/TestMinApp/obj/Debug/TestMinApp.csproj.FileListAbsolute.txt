@@ -1,0 +1,17 @@
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\TestMinApp.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\TestMinApp.pdb
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\software_testing\MinApp\TestMinApp\bin\Debug\MinApp.exe
+E:\software_testing\MinApp\TestMinApp\bin\Debug\MinApp.pdb
+E:\software_testing\MinApp\TestMinApp\bin\Debug\MinApp.exe.config
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\software_testing\MinApp\TestMinApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\software_testing\MinApp\TestMinApp\obj\Debug\TestMinApp.csproj.AssemblyReference.cache
+E:\software_testing\MinApp\TestMinApp\obj\Debug\TestMinApp.csproj.CoreCompileInputs.cache
+E:\software_testing\MinApp\TestMinApp\obj\Debug\TestMinApp.csproj.CopyComplete
+E:\software_testing\MinApp\TestMinApp\obj\Debug\TestMinApp.dll
+E:\software_testing\MinApp\TestMinApp\obj\Debug\TestMinApp.pdb
